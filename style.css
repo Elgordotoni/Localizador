@@ -253,7 +253,7 @@ pointer-events: auto ;
 }
 /* ********** Hero-image********** */
 .hero-image{
-  background-image: var(--hero-image);
+  background-image: var(--image);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
